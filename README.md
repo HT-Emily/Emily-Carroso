@@ -1,2 +1,2 @@
 # Emily-Carroso
-This website was created for ART151 at UIC.
+This repository was created for ART151 at UIC.
